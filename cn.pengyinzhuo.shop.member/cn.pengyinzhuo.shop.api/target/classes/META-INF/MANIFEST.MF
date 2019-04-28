@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: cn.pengyinzhuo.shop.api
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Administrator
+Implementation-Vendor-Id: cn.pengyinzhuo.shop
+Build-Jdk: 1.8.0_65
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/cn.pengyinzhuo.shop.parent/cn.pengyinzhuo.shop.memb
+ er/cn.pengyinzhuo.shop.api
+Created-By: Maven Integration for Eclipse
+
