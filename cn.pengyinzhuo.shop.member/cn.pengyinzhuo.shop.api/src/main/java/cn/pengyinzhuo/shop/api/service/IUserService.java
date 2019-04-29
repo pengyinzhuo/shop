@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import cn.pengyinzhuo.shop.api.entity.User;
 import cn.pengyinzhuo.shop.common.api.ShopResult;
 
-@RequestMapping("member")
+@RequestMapping("/member")
 public interface IUserService {
 
 	/**

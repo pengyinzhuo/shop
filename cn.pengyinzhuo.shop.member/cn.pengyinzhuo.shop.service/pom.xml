@@ -12,5 +12,17 @@
     	<artifactId>cn.pengyinzhuo.shop.common</artifactId>
    		<version>0.0.1-SNAPSHOT</version>
   	</dependency>
+  	
+  	<dependency>
+  		<groupId>cn.pengyinzhuo.shop</groupId>
+    	<artifactId>cn.pengyinzhuo.shop.api</artifactId>
+   		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  	
+  	<dependency>
+  		<groupId>cn.pengyinzhuo.shop</groupId>
+    	<artifactId>cn.pengyinzhuo.shop.dao</artifactId>
+   		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
   </dependencies>
 </project>

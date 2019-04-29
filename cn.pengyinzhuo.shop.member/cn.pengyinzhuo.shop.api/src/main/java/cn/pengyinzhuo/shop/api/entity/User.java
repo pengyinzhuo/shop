@@ -1,11 +1,12 @@
 package cn.pengyinzhuo.shop.api.entity;
 
+import cn.pengyinzhuo.shop.common.api.enity.BaseEntity;
 import lombok.Getter;
 import lombok.Setter;
 
 @Getter
 @Setter
-public class User {
+public class User extends BaseEntity{
 
 	
 	/* 

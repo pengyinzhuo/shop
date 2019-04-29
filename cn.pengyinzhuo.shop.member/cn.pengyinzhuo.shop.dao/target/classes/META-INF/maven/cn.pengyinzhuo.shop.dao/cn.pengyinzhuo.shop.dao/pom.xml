@@ -11,8 +11,8 @@
   <dependencies>
   	<dependency>
   		<groupId>cn.pengyinzhuo.shop</groupId>
-    <artifactId>cn.pengyinzhuo.shop.common</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    	<artifactId>cn.pengyinzhuo.shop.common</artifactId>
+    	<version>0.0.1-SNAPSHOT</version>
   	</dependency>
   </dependencies>
 </project>

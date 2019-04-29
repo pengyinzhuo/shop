@@ -5,14 +5,13 @@
     <artifactId>cn.pengyinzhuo.shop.member</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <groupId>cn.pengyinzhuo.shop.dao</groupId>
   <artifactId>cn.pengyinzhuo.shop.dao</artifactId>
   
   <dependencies>
   	<dependency>
   		<groupId>cn.pengyinzhuo.shop</groupId>
-    <artifactId>cn.pengyinzhuo.shop.common</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    	<artifactId>cn.pengyinzhuo.shop.common</artifactId>
+    	<version>0.0.1-SNAPSHOT</version>
   	</dependency>
   </dependencies>
 </project>
