@@ -19,7 +19,7 @@ spring:
   #数据库连接信息
   datasource:
       name: text
-      url: jdbc:mysql://127.0.0.1:3306/shop
+      url: jdbc:mysql://localhost:3306/shop
       username: root
       password: root
       #使用druid数据源
@@ -40,7 +40,7 @@ spring:
       maxOpenPreparedStatements: 20
   ##activemq连接信息
   activemq:
-    broke-url: tcp://127.0.0.1:61616
+    broke-url: tcp://localhost:8161
     in-memory: true
     pool:
       enabled: false
